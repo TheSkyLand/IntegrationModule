@@ -1,0 +1,6 @@
+com\company\partners\controller\TestController.class
+com\company\partners\service\PartnerService.class
+com\company\partners\PartnersApplication.class
+com\company\partners\repository\PartnerRepository.class
+com\company\partners\controller\PartnerController.class
+com\company\partners\model\Partner.class
